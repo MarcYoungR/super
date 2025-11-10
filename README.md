@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>感谢MarS实验室的开源，本仓库只为上传gemini学习使用</h2>
+    <h2>感谢MarS实验室的开源，仅为上传gemini学习使用</h2>
     <h2>SUPER: Safety-assured High-speed Navigation for MAVs</h2>
     <strong>Science Robotics' 25</strong>
     <br>
